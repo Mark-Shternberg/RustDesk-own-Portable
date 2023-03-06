@@ -1,5 +1,8 @@
 # RustDesk-own-Portable
-Portable version of RustDesk installation with auto install self-hosted configuration
+Portable version of RustDesk installation with auto install self-hosted configuration (auto En/Rus)
+
+This script will download portable version of RustDesk to desktop and automaticly create a file with a given server configuration
+Этот скрипт скачает портативную версию RustDesk на рабочий стол и автоматически создаст файл с заданной конфигурацией сервера
 
 ------------------------------------------------------------
 
